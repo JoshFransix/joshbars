@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <h1>My Music</h1>
+      <h1>Josh_Bars</h1>
     </header>
     <main>
       <section class="player">
